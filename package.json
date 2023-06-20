@@ -1,6 +1,6 @@
 {
     "name": "@hexadog/tailwind-social-colors",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "license": "MIT",
     "author": {
         "name": "Gaetan B.",
@@ -28,7 +28,7 @@
     "bugs": {
         "url": "https://github.com/hexadog/tailwind-social-colors/issues"
     },
-        "homepage": "https://github.com/hexadog/tailwind-social-colors#readme",
+    "homepage": "https://github.com/hexadog/tailwind-social-colors#readme",
     "scripts": {
         "upload": "npm publish --access public",
         "patch": "npm version patch",
